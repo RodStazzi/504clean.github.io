@@ -2,7 +2,7 @@
 
 # Proyecto 504 Clean
 
-Proyecto web dinámico utilizando el lenguaje Java, con solicitudes HTTP de una aplicación web dinámica con conexión a base de datos y capa de persistencia de la aplicación. 
+Proyecto web dinámico utilizando el lenguaje Java, con solicitudes HTTP con conexión a base de datos y capa de persistencia de la aplicación. 
 Esta aplicación registra en Categorías diferentes productos de Aseo y Limpieza. Es capaz de registrar, mostrar, modificar y eliminar los productos siguiendo el patrón de diseño MVC configurando las librerías que utilizará el proyecto (JSTL y driver de conexión a base de datos). Para esto usa JSP y JSTL para desplegar datos de forma dinámica.
 Utiliza Bootstrap para definir el layout de las vistas y estilizar y sigue el patrón Facade, para conectar las capas de acceso a datos y el controlador. Implementa un mecanismo de autenticación, que restringe el acceso a la página de bienvenida, solicitando nombre de usuario y contraseña y un mecanismo de cierre de sesión.
 
